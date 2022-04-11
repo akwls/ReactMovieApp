@@ -1,0 +1,43 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.movie-container {
+    padding: 20px;
+    width: 70%;
+    box-shadow: 10px;
+    display: flex;
+    margin: 25px auto;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 20px;
+}
+
+.movie-container img {
+    width: 30%;
+    margin-right: 20px;
+}
+
+.movie-container ul {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 12px;
+}
+
+.movie-container .link {
+    color: black;
+}
+
+.movie-container .summary {
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+
+
